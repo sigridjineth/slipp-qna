@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 질문답변 게시판
 ## 진행 방법
 * 질문답변 게시판에 대한 html template은 src/main/resources 디렉토리의 static에서 확인할 수 있다. html template을 통해 요구사항을 파악한다.
@@ -9,3 +10,7 @@
 * [텍스트와 이미지로 살펴보는 코드스쿼드의 온라인 코드 리뷰 과정](https://github.com/code-squad/codesquad-docs/blob/master/codereview/README.md)
 * [동영상으로 살펴보는 코드스쿼드의 온라인 코드 리뷰 과정](https://youtu.be/a5c9ku-_fok)
 
+=======
+# slipp-qna
+SLiPP &amp; CodeSquad QnA board in the purpose of drilling spring boot.
+>>>>>>> Initial commit
